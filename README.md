@@ -16,10 +16,10 @@ related subjects during the bachelor's degree.
   11. git tutorial
 
 ## projects  
-  1. sparc-v8 architecture related
+  1. sparc-v8 architecture related  
     1. the leon3 system
     2. the graduate project: migration of ucos2 to sparc-v8 simulator
-  2. mcs51, the 80c32 simulator and the modeling approach for event-driven system
+  2. mcs51, the 80c32 simulator and the modeling approach for event-driven system  
 
 ## thesis  
 
